@@ -1,2 +1,2 @@
 # bvl-ariel
-The for the ARIEL ECML 2019 challenge
+The code for the ARIEL ECML 2019 challenge
